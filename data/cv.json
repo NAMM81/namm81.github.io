@@ -70,42 +70,27 @@
         "Entra ID",
         "Intune",
         "Defender for Office / Endpoint / Cloud Apps",
+        "Azure",
+        "AWS"
       ]
     },
     {
-      "period": "Nov 2024 - Aug 2025",
-      "role": "DevOps Senior Engineer (Linux Focus)",
-      "company": "NOS via Capgemini",
+      "period": "Feb 2025 - Jun 2025",
+      "role": "Manager",
+      "company": "Avanade",
       "location": "Lisbon, Portugal",
-      "mode": "Linux / CI/CD / Observability",
+      "mode": "Cloud Architect",
       "description": [
-        "Created and maintained deployment pipelines for new features, fixes, and channels on nostv.pt, supporting controlled delivery into production environments.",
-        "Monitored critical multimedia services, including set-top boxes and web platforms, investigating HTTP 4xx/5xx errors, service degradation, and application-level metrics.",
-        "Operated and troubleshot Linux server environments running HAProxy, Nginx, Apache HTTPD, Tomcat, MongoDB, PostgreSQL, Kubernetes, and Docker workloads.",
-        "Worked with Elastic Stack, OpenSearch, Grafana, Kibana, and the in-house alarmistic tool TheSys to support observability, incident analysis, and service availability.",
-        "Supported in-house CI/CD processes and cloud-connected infrastructure across AWS, Azure, and GCP contexts."
+        "Cloud Adoption & Architecture",
+            "Conducted discovery sessions with customers to understand their goals, challenges, and cloud‑readiness.",
+            "Designed Azure Landing Zones aligned with governance, security, and operational best practices.",
+            "Created tailored proposals outlining solution options, migration approaches, and recommended Azure services.",
+            "Helped customers make confident decisions by presenting clear, best‑practice architecture choices."
       ],
       "tools": [
-        "Linux",
-        "Elastic Stack",
-        "Elasticsearch",
-        "OpenSearch",
-        "Grafana",
-        "Kibana",
-        "TheSys",
-        "In-house CI/CD",
-        "HAProxy",
-        "Nginx",
-        "Apache",
-        "Tomcat",
-        "MongoDB",
-        "PostgreSQL",
-        "Kubernetes",
-        "Docker",
-        "AWS",
         "Azure",
-        "GCP",
-        "HTTP 4xx/5xx Analysis"
+        "Migration",
+        "VMware"
       ]
     },
     {
