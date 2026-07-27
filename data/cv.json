@@ -30,33 +30,38 @@
       "role": "Practicing Cloud Infrastructure Architect",
       "company": "Capgemini",
       "location": "Porto, Portugal",
-      "mode": "Azure / Security / Cybersecurity / Identity",
+      "mode": [
+        "Azure",
+        "Security",
+        "Cybersecurity",
+        "Identity"
+      ],
       "description": [
-        "Cloud Adoption & Architecture",
+        "**Cloud Adoption & Architecture**",
         "Helped organisations assess their environments and plan their move to the cloud",
         "Designed secure, well‑structured Azure foundations using industry frameworks",
         "Improved governance, structure, and identity setup for cloud environments",
-        "Microsoft 365 & Collaboration",
+        "**Microsoft 365 & Collaboration**",
         "Managed and secured Microsoft 365 services including email, file sharing, and collaboration tools",
         "Improved on‑premises systems to work smoothly with cloud services",
         "Strengthened security and compliance across Microsoft 365",
-        "Identity & Zero Trust",
+        "**Identity & Zero Trust**",
         "Improved how organisations protect user identities and access to systems",
         "Strengthened authentication, access controls, and privileged access processes",
         "Continuously reviewed and improved identity security posture",
-        "Endpoint & Device Management",
+        "**Endpoint & Device Management**",
         "Managed company devices and security policies through Intune",
         "Improved application and update deployment for end users",
-        "Azure Security & Cost Management",
+        "**Azure Security & Cost Management**",
         "Strengthened cloud security through better policies, access controls, and monitoring",
         "Helped organisations reduce unnecessary cloud spending and improve visibility",
-        "Dashboards & Reporting",
+        "**Dashboards & Reporting**",
         "Created dashboards that provide clear visibility into activity, access, and compliance",
         "Supported better decision‑making with clear, actionable reporting",
-        "Support & Leadership",
+        "**Support & Leadership**",
         "Provided guidance and support to teams and customers",
         "Led troubleshooting, best‑practice reviews, and improvement initiatives",
-        "AWS Learning & Certification Path",
+        "**AWS Learning & Certification Path**",
         "Expanding skills into AWS to build strong multi‑cloud expertise",
         "Studying AWS architecture, security practices, and core cloud services",
         "Learning the AWS Well‑Architected Framework",
@@ -81,9 +86,11 @@
       "role": "Manager",
       "company": "Avanade",
       "location": "Lisbon, Portugal",
-      "mode": "Cloud Architect",
+      "mode": [
+        "Cloud Architect"
+      ],
       "description": [
-        "Cloud Adoption & Architecture",
+        "**Cloud Adoption & Architecture**",
         "Conducted discovery sessions with customers to understand their goals, challenges, and cloud‑readiness.",
         "Designed Azure Landing Zones aligned with governance, security, and operational best practices.",
         "Created tailored proposals outlining solution options, migration approaches, and recommended Azure services.",
@@ -100,34 +107,38 @@
       "role": "Senior Consultant",
       "company": "Capgemini",
       "location": "Porto, Portugal",
-      "mode": "Azure / Security / Cybersecurity",
+      "mode": [
+        "Azure",
+        "Security",
+        "Cybersecurity"
+      ],
       "description": [
-        "Cloud Architecture & Adoption",
+        "**Cloud Architecture & Adoption**",
         "Evaluated systems and business needs to guide cloud‑adoption decisions",
         "Designed clear cloud roadmaps aligned with organisational goals",
         "Reviewed environments and set standards for secure, well‑structured deployments",
         "Delivered modern desktop solutions using Azure Virtual Desktop",
-        "Security Architecture & Zero Trust",
+        "**Security Architecture & Zero Trust**",
         "Applied Zero Trust principles across identities, devices, apps, and cloud services",
         "Unified security tools to improve visibility, monitoring, and response",
         "Performed assessments to strengthen protection of data and workloads",
         "Developed policies to reduce risk and improve overall security posture",
-        "Identity & Access Management",
+        "**Identity & Access Management**",
         "Improved identity protection through stronger authentication and access controls",
         "Enhanced hybrid identity setups by strengthening on‑premises components",
         "Ensured advanced security features were properly enabled and aligned with business needs",
-        "Microsoft 365 Security & Compliance",
+        "**Microsoft 365 Security & Compliance**",
         "Created and enforced security and compliance policies across Microsoft 365",
         "Secured email, collaboration, and file‑sharing services using best practices",
         "Continuously monitored and improved tenant security posture",
-        "Automation & Efficiency",
+        "**Automation & Efficiency**",
         "Automated cloud and server tasks to reduce manual effort and improve consistency",
         "Developed reusable automation patterns for faster, more reliable deployments",
-        "Governance, Monitoring & Cost Management",
+        "**Governance, Monitoring & Cost Management**",
         "Strengthened governance through improved policies and access controls",
         "Built dashboards to provide clear visibility into activity, access, and security",
         "Identified cost‑saving opportunities and improved cloud‑spending efficiency",
-        "Technical Leadership",
+        "**Technical Leadership**",
         "Guided teams and clients across cloud, identity, and security areas",
         "Supported the rollout of security tools and ensured alignment with organisational standards"
       ],
@@ -142,7 +153,9 @@
       "role": "Linux Systems Engineer (N3 / Enterprise Support)",
       "company": "Tata Consultancy Services (TCS)",
       "location": "Rio de Janeiro, Brazil",
-      "mode": "Enterprise Support",
+      "mode": [
+        "Enterprise Support"
+      ],
       "description": [
         "Provided on-site support for South32 office users, from N1 to N3 and VIP users, under a third-party contract.",
         "Handled IT equipment assembly, dock stations, video conference rooms, rack arrangement, HP servers, and Cisco switches.",
@@ -154,7 +167,9 @@
       "role": "Linux Systems Administrator",
       "company": "Roma Mobili",
       "location": "Rio de Janeiro, Brazil",
-      "mode": "IT Operations",
+      "mode": [
+        "IT Operations"
+      ],
       "description": [
         "Implemented IT processes including ITIL practices, ticket handling, inventory, and asset management.",
         "Used GLPI, RustDesk, PfSense, Windows Server 2019, Google Drive, Google Docs, and backup scripts for IT deployment and operations."
@@ -165,7 +180,9 @@
       "role": "Linux System Administrator",
       "company": "INCONNET - Projects: Unilever, SITA, British Airways, American Airlines",
       "location": "Rio de Janeiro, Brazil",
-      "mode": "Infrastructure Support",
+      "mode": [
+        "Infrastructure Support"
+      ],
       "description": [
         "Maintained HP backup servers, data links, and routers.",
         "Answered service calls in Rio de Janeiro and provided outsourced support services for Unilever."
@@ -176,7 +193,9 @@
       "role": "Support Engineering / Troubleshooter",
       "company": "CTIS - Project: BNDES Brazilian Bank",
       "location": "Rio de Janeiro, Brazil",
-      "mode": "N3 Support",
+      "mode": [
+        "N3 Support"
+      ],
       "description": [
         "Provided Level 3 service for advanced users and programmers.",
         "Installed and configured corporate software such as SAP BI, IBM Lotus Notes, Java SDK, and related tools.",
@@ -188,7 +207,9 @@
       "role": "Support Analyst N2",
       "company": "CTIS - Project: BNDES Brazilian Bank",
       "location": "Rio de Janeiro, Brazil",
-      "mode": "N2 Support",
+      "mode": [
+        "N2 Support"
+      ],
       "description": [
         "Worked as a micro-informatics support technician for enterprise users.",
         "Performed banking software installation, remote support for Level 1 and Level 2 users, and configuration of equipment such as switches, routers, and servers."
@@ -199,7 +220,9 @@
       "role": "Support Analyst N2",
       "company": "TRACTUS",
       "location": "Rio de Janeiro, Brazil",
-      "mode": "N1-N3 Support",
+      "mode": [
+        "N1-N3 Support"
+      ],
       "description": [
         "Provided on-site support from N1 to N3.",
         "Worked with Windows administration, cloud administration, network administration, security cameras, Windows system migrations, Microsoft Office support, and surveillance camera systems."
