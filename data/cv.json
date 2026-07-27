@@ -32,14 +32,19 @@
       "location": "Porto, Portugal",
       "mode": "Azure / Security / Cybersecurity / Identity",
       "description": [
-        "Cloud Adoption & Architecture",
+        {
+          "title": "Cloud Adoption &amp; Architecture",
+          "items": [
             "Helped organisations assess their environments and plan their move to the cloud",
             "Designed secure, well‑structured Azure foundations using industry frameworks",
             "Improved governance, structure, and identity setup for cloud environments",
-        "Microsoft 365 & Collaboration",
+          ]
+          "title": "Microsoft 365 & Collaboration",
+          "items": [
             "Managed and secured Microsoft 365 services including email, file sharing, and collaboration tools",
             "Improved on‑premises systems to work smoothly with cloud services",
             "Strengthened security and compliance across Microsoft 365",
+          ]
         "Identity & Zero Trust",
             "Improved how organisations protect user identities and access to systems",
             "Strengthened authentication, access controls, and privileged access processes",
