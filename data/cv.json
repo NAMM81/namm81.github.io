@@ -67,7 +67,9 @@
         "Active Directory",
         "Sharepoint Online",
         "Exchange Online",
-        "Entra ID"
+        "Entra ID",
+        "Intune",
+        "Defender for Office / Endpoint / Cloud Apps",
       ]
     },
     {
