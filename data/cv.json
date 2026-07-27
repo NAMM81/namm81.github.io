@@ -37,7 +37,7 @@
         "Identity"
       ],
       "description": [
-        "**Cloud Adoption & Architecture**",
+        "Cloud Adoption & Architecture",
         "Helped organisations assess their environments and plan their move to the cloud",
         "Designed secure, well‑structured Azure foundations using industry frameworks",
         "Improved governance, structure, and identity setup for cloud environments",
@@ -230,66 +230,6 @@
     }
   ],
   "projects": [
-    {
-      "name": "ATM - Atomy Tools Modules",
-      "description": "A modular Linux CLI installer for development tools, focused on portable environments, automation, and developer workflow setup.",
-      "stack": [
-        "Bash",
-        "Linux",
-        "CLI",
-        "Automation"
-      ],
-      "url": "https://github.com/atomycloud/atm",
-      "icon": "terminal"
-    },
-    {
-      "name": "Clicke.Me",
-      "description": "A marketing wizard, all-in-one.",
-      "stack": [
-        "PHP",
-        "MySQL",
-        "API",
-        "A.I"
-      ],
-      "url": "https://clicke.me",
-      "icon": "web"
-    },
-    {
-      "name": "InfoDica",
-      "description": "MarketPlace Store",
-      "stack": [
-        "PHP",
-        "MySQL",
-        "API",
-        "A.I"
-      ],
-      "url": "https://infodica.com",
-      "icon": "web"
-    },
-    {
-      "name": "TimeCoin",
-      "description": "A custom cryptocurrency architecture exploring time-based issuance, auditable ledger design, and Proof-of-Space-Time concepts.",
-      "stack": [
-        "Go",
-        "Blockchain",
-        "BadgerDB",
-        "Cryptography"
-      ],
-      "url": "",
-      "icon": "clock"
-    },
-    {
-      "name": "Homelab Infrastructure",
-      "description": "Personal Proxmox-based infrastructure with Docker services, Traefik reverse proxy, Cloudflare integration, and local virtualization.",
-      "stack": [
-        "Proxmox",
-        "Docker",
-        "Traefik",
-        "Cloudflare"
-      ],
-      "url": "",
-      "icon": "server"
-    },
     {
       "name": "Local AI Assistant Architecture",
       "description": "Self-hosted AI workflow concept using local LLMs, WhatsApp integration, access control, and local database infrastructure.",
