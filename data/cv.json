@@ -30,7 +30,7 @@
       "role": "Practicing Cloud Infrastructure Architect",
       "company": "Capgemini",
       "location": "Porto, Portugal",
-      "mode": "Azure / Security / Cybersecurity / Identity",
+      "mode": "Azure" , "Security" , "Cybersecurity" , "Identity",
       "description": [
         "<strong>Cloud Adoption &amp; Architecture</strong>",
             "Helped organisations assess their environments and plan their move to the cloud",
